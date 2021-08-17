@@ -1,0 +1,49 @@
+body {
+    background: #353431f8;
+    font: normal 15pt Arial;
+}
+
+header h1{
+    color:#f7f1e4;
+    text-align:center;
+}
+
+.cidade{
+    margin-left:10%;
+    margin-right:10%;
+    font-size:16px;
+    line-height: 1.5em;
+    text-align: justify;
+    color:#f7f1e4;
+
+}
+div#hora {
+    margin-top:15px;
+    display: flex;
+    justify-content: center;
+}
+
+label.hora{
+    color:#f7f1e4
+}
+input#relogio{
+    margin-left:10px;
+    margin-right:15px;
+}
+
+img {
+    width: 70%;
+    margin-left:10%;
+    margin-top:15px;
+    border: 20px #f7f1e4 solid;
+    border-radius:10px;
+}
+
+footer {
+    color:white;
+    text-align:center;
+}
+
+@media screen and (width {
+    
+}
